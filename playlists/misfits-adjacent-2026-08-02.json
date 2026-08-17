@@ -1,0 +1,60 @@
+{
+  "id": "misfits-adjacent-2026-08-02",
+  "title": "Misfits Adjacent: The Horror Rock Family Tree",
+  "date": "2026-08-02",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/5Zyzb4B9TjxZqaRqVOKEYH",
+  "spotifyId": "5Zyzb4B9TjxZqaRqVOKEYH",
+  "description": "Danzig-era Misfits deep cuts + the ancestors (Screamin' Jay, Alice Cooper, Roky Erickson) and the scene they fed. Requested via the Generate tab.",
+  "themes": ["horror punk", "misfits", "danzig", "family tree", "deep cuts"],
+  "familyTree": {
+    "nodes": [
+      { "id": "screaminjay", "name": "Screamin' Jay Hawkins", "note": "shock-rock originator, 1956", "layer": 0 },
+      { "id": "alice", "name": "Alice Cooper", "note": "staged horror theater, 1975", "layer": 0 },
+      { "id": "roky", "name": "Roky Erickson", "note": "demon psych, 13th Floor Elevators", "layer": 0 },
+      { "id": "cramps", "name": "The Cramps", "note": "psychobilly, Lux Interior", "layer": 0 },
+      { "id": "misfits", "name": "Misfits", "note": "Lodi NJ, 1977", "layer": 1 },
+      { "id": "deadboys", "name": "Dead Boys", "note": "Cleveland, 1976 — peer", "layer": 2 },
+      { "id": "damned", "name": "The Damned", "note": "London, 1976 — peer", "layer": 2 },
+      { "id": "tsol", "name": "T.S.O.L.", "note": "LA death-rock branch", "layer": 2 },
+      { "id": "45grave", "name": "45 Grave", "note": "LA deathrock branch", "layer": 2 },
+      { "id": "samhain", "name": "Samhain", "note": "Danzig's bridge band, 1983", "layer": 2 },
+      { "id": "danzig", "name": "Danzig", "note": "blues-metal, 1987", "layer": 2 },
+      { "id": "horrorpunk", "name": "horror punk scene", "note": "everything that followed", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "screaminjay", "to": "misfits", "label": "showmanship" },
+      { "from": "alice", "to": "misfits", "label": "theater" },
+      { "from": "roky", "to": "misfits", "label": "weird" },
+      { "from": "cramps", "to": "misfits", "label": "B-movie" },
+      { "from": "misfits", "to": "deadboys" },
+      { "from": "misfits", "to": "damned" },
+      { "from": "misfits", "to": "tsol", "label": "LA branch" },
+      { "from": "misfits", "to": "45grave", "label": "deathrock" },
+      { "from": "misfits", "to": "samhain", "label": "evolution" },
+      { "from": "samhain", "to": "danzig" },
+      { "from": "misfits", "to": "horrorpunk", "label": "the trunk" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Screamin' Jay Hawkins", "title": "I Put a Spell On You", "album": "At Home with Screamin' Jay Hawkins", "year": 1958 },
+    { "artist": "Alice Cooper", "title": "The Black Widow", "album": "Welcome to My Nightmare", "year": 1975 },
+    { "artist": "Roky Erickson", "title": "Night of the Vampire", "album": "The Evil One", "year": 1981 },
+    { "artist": "The Cramps", "title": "Human Fly", "album": "Off The Bone", "year": 1983 },
+    { "artist": "Dead Boys", "title": "Sonic Reducer", "album": "Young, Loud And Snotty", "year": 1977 },
+    { "artist": "T.S.O.L.", "title": "Abolish Government/Silent Majority", "album": "T.S.O.L. / Weathered Statues", "year": 1981 },
+    { "artist": "The Damned", "title": "New Rose", "album": "Damned Damned Damned", "year": 1977 },
+    { "artist": "45 Grave", "title": "Partytime", "album": "Sleep In Safety", "year": 1983 },
+    { "artist": "Misfits", "title": "Where Eagles Dare", "album": "Collection", "year": 1986 },
+    { "artist": "Misfits", "title": "Angelfuck", "album": "Static Age", "year": 1978 },
+    { "artist": "Misfits", "title": "Theme For A Jackal", "album": "Legacy Of Brutality", "year": 1978 },
+    { "artist": "Misfits", "title": "Return Of The Fly", "album": "Collection 2", "year": 1978 },
+    { "artist": "Misfits", "title": "Children In Heat", "album": "Collection 2", "year": 1979 },
+    { "artist": "Misfits", "title": "Halloween II", "album": "Collection 2", "year": 1981 },
+    { "artist": "Misfits", "title": "Vampira", "album": "Collection", "year": 1980 },
+    { "artist": "Danzig", "title": "She Rides", "album": "Danzig", "year": 1988 },
+    { "artist": "Danzig", "title": "Am I Demon", "album": "Danzig", "year": 1988 },
+    { "artist": "Danzig", "title": "Her Black Wings", "album": "Danzig II: Lucifuge", "year": 1990 }
+  ],
+  "essay": "Requested from the Deep Cut Generate tab: \"misfits adjacent rock jams.\" The Misfits didn't invent horror rock — they just made it punk. So this playlist is a family tree, not a tribute: the showmen and screamers who came before (Screamin' Jay Hawkins' voodoo R&B, Alice Cooper's staged nightmare, Roky Erickson's demon-obsessed psych), the Lodi, NJ basement where the Misfits turned B-movie fandom into 90-second anthems, and the scene they fed (the Cramps' psychobilly creep, the Dead Boys' Cleveland sneer, T.S.O.L.'s L.A. death-rock, the Damned's first-punk-single chaos, 45 Grave's deathrock).\n\nThe Misfits picks lean hard into the Danzig-era deep cuts: Static Age outtakes (Angelfuck, Theme For A Jackal, Return Of The Fly), Collection 2 rarities (Children In Heat, Halloween II), and the 45-era singles (Where Eagles Dare, Vampira). Skip the obvious Last Caress/Hybrid Moments entries — those live on every horror-punk playlist ever made.\n\nClosing with the three Danzig tracks maps the arc: the Misfits' horror-punk distilled into blues-metal doom (She Rides), occult swagger (Am I Demon), and the gothic crawl of Lucifuge (Her Black Wings). The missing chapter: Samhain, Danzig's transitional band (Initium, November-Coming-Fire), whose classic recordings famously aren't on Spotify — only a bootleg and tribute covers circulate there. If you want that chapter, it's a vinyl/rip situation, not a playlist.\n\nOne more note: Glenn Danzig reportedly based the Misfits' sound partly on the Damned and Alice Cooper, and Screamin' Jay Hawkins' \"I Put a Spell On You\" is the ur-text of American shock-rock performance — the coffin entrance, the voodoo props, all of it. This is where the whole thing starts."
+}
