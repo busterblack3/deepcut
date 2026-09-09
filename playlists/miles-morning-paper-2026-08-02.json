@@ -1,0 +1,55 @@
+{
+  "id": "miles-morning-paper-2026-08-02",
+  "title": "Miles & the Morning Paper: Modal Jazz for Slow Mornings",
+  "date": "2026-08-02",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/5Dabmq6K9NrY6arrDc4Stn",
+  "spotifyId": "5Dabmq6K9NrY6arrDc4Stn",
+  "description": "melodic, spacious jazz in the Kind of Blue tradition — modal ballads, cool-toned blues, and bossa for reading the paper",
+  "themes": ["jazz", "modal", "miles-davis", "morning", "ballads", "bossa"],
+  "familyTree": {
+    "layerLabels": ["the roots", "the trunk", "the branches"],
+    "nodes": [
+      { "id": "bebop", "name": "bebop", "note": "the fast years Miles left behind", "layer": 0 },
+      { "id": "jamal", "name": "Ahmad Jamal", "note": "space & silence — Miles' favorite", "layer": 0 },
+      { "id": "gil", "name": "Gil Evans", "note": "orchestral color, Miles Ahead", "layer": 0 },
+      { "id": "miles", "name": "Miles Davis", "note": "Kind of Blue, 1959 — the trunk", "layer": 1 },
+      { "id": "evans", "name": "Bill Evans", "note": "modal piano, Peace Piece", "layer": 2 },
+      { "id": "trane", "name": "John Coltrane", "note": "Naima, then Giant Steps", "layer": 2 },
+      { "id": "cannonball", "name": "Cannonball Adderley", "note": "Somethin' Else, 1958", "layer": 2 },
+      { "id": "blueNote", "name": "Blue Note modal school", "note": "Hancock, Green, Shorter, Henderson", "layer": 2 },
+      { "id": "bossa", "name": "bossa nova", "note": "Jobim, Gilberto, Getz — 1964", "layer": 2 },
+      { "id": "baker", "name": "Chet Baker", "note": "cool school, West Coast", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "bebop", "to": "miles", "label": "escaped" },
+      { "from": "jamal", "to": "miles", "label": "the space" },
+      { "from": "gil", "to": "miles", "label": "the color" },
+      { "from": "miles", "to": "evans", "label": "piano" },
+      { "from": "miles", "to": "trane", "label": "tenor" },
+      { "from": "miles", "to": "cannonball", "label": "alto" },
+      { "from": "miles", "to": "blueNote", "label": "the torch" },
+      { "from": "miles", "to": "baker", "label": "the cool" },
+      { "from": "bossa", "to": "blueNote", "label": "Blue Bossa" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Miles Davis", "title": "Blue in Green", "year": 1959, "album": "Kind of Blue" },
+    { "artist": "Miles Davis", "title": "Flamenco Sketches", "year": 1959, "album": "Kind of Blue" },
+    { "artist": "Miles Davis Quintet", "title": "It Never Entered My Mind", "year": 1959, "album": "Workin'" },
+    { "artist": "Miles Davis", "title": "Someday My Prince Will Come", "year": 1961, "album": "Someday My Prince Will Come" },
+    { "artist": "Bill Evans", "title": "Peace Piece", "year": 1959, "album": "Everybody Digs Bill Evans" },
+    { "artist": "Bill Evans Trio", "title": "Waltz for Debby (Live at the Village Vanguard)", "year": 1961, "album": "At the Village Vanguard" },
+    { "artist": "John Coltrane", "title": "Naima", "year": 1960, "album": "Giant Steps" },
+    { "artist": "Duke Ellington & John Coltrane", "title": "In a Sentimental Mood", "year": 1963, "album": "Duke Ellington & John Coltrane" },
+    { "artist": "Chet Baker", "title": "My Funny Valentine", "year": 1956, "album": "Chet Baker Sings" },
+    { "artist": "Ahmad Jamal Trio", "title": "Poinciana (Live at the Pershing)", "year": 1958, "album": "Ahmad Jamal at the Pershing: But Not for Me" },
+    { "artist": "Cannonball Adderley", "title": "Autumn Leaves", "year": 1958, "album": "Somethin' Else" },
+    { "artist": "Stan Getz & João Gilberto", "title": "Corcovado (Quiet Nights of Quiet Stars)", "year": 1964, "album": "Getz/Gilberto" },
+    { "artist": "Herbie Hancock", "title": "Maiden Voyage", "year": 1965, "album": "Maiden Voyage" },
+    { "artist": "Grant Green", "title": "Idle Moments", "year": 1963, "album": "Idle Moments" },
+    { "artist": "Joe Henderson", "title": "Blue Bossa", "year": 1963, "album": "Page One" },
+    { "artist": "Wayne Shorter", "title": "Infant Eyes", "year": 1966, "album": "Speak No Evil" }
+  ],
+  "essay": "The request was simple and specific: melodic jazz from the Miles Davis era, but the chill stuff — the records you put on while the coffee brews and the paper spreads across the table. That means one record above all others: Kind of Blue, which turns sixty-five this year and still sounds like a room with the morning light coming in. Two of its most unhurried tracks open the playlist: 'Blue in Green,' the ten-minute ballad Bill Evans claimed he and Miles wrote together in the studio over a sketch of chords (Evans later recorded his own versions under his name), and 'Flamenco Sketches,' which is less a song than a set of scales the band agreed to improvise over, one at a time.\n\nAround those two anchors the playlist builds outward through the musicians who made that sound. Evans' own 'Peace Piece' is the direct ancestor of 'Blue in Green' — a left-hand ostinato over which he improvises the whole track; he recorded it a year before Kind of Blue, and its DNA is all over the later record. Ahmad Jamal's 'Poinciana,' from the legendary 1958 live date at the Pershing in Chicago, was one of Miles' favorite records — he studied Jamal's use of space and silence, and the trio's restrained, bell-clear touch is the quiet engine of the whole modal approach.\n\nThe deep cuts here are the point. 'It Never Entered My Mind' comes from Workin', one of the five marathon albums the Miles Davis Quintet cut in 1956 sessions with the Prestige label to get out of their contract — the band plays standards at walking pace, and this is the most tender of them. 'Someday My Prince Will Come' is the title track of the 1961 album, the last studio record with John Coltrane before he left to form his own quartet; Trane's solo here is barely more than a whisper and all the more powerful for it. Grant Green's 'Idle Moments' gives a fifteen-minute ballad the full Blue Note treatment — Duke Pearson's arrangement leaves the whole band hanging on one chord change while Green and vibraphonist Bobby Hutcherson trade the most patient solos in jazz. Wayne Shorter's 'Infant Eyes,' from Speak No Evil, is a lullaby in waltz time dedicated to his daughter — the melody is so strong it barely needs improvisation at all.\n\nThe playlists closes soft, too: Chet Baker's 'My Funny Valentine' (the vocal version, because a morning paper wants a voice sometimes), the Ellington-Coltrane duet of 'In a Sentimental Mood' (recorded in one afternoon, both legends reportedly nervous), Joe Henderson's 'Blue Bossa' and the Getz/Gilberto 'Corcovado' bringing the bossa wave, and Herbie Hancock's 'Maiden Voyage' — modal, tidal, and spacious, the sound of the sea the record's title promises. Sixteen tracks, nothing over 92 bpm, nothing that shouts. The kind of jazz you don't have to lean in to hear — but if you do lean in, it's all there."
+}
