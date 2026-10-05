@@ -1,0 +1,60 @@
+{
+  "id": "2026-07-27-wtju",
+  "title": "WTJU 91.1: The Charlottesville Frequency",
+  "date": "2026-07-27",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/1gZNur8YaWPWRMn7IOTLjk",
+  "spotifyId": "1gZNur8YaWPWRMn7IOTLjk",
+  "description": "The UVA college radio station (mid-late 1980s) that seeded Silver Jews, Pavement, Yo La Tengo's classic lineup, and Jagjaguwar/Secretly Group — plus the Ectoslavia/Red House scene and the Songs: Ohia bridge",
+  "themes": ["silver-jews", "pavement", "college-radio", "charlottesville", "secretly-group"],
+  "familyTree": {
+    "layerLabels": ["the room", "the cast", "what it seeded"],
+    "nodes": [
+      { "id": "wtju", "name": "WTJU 91.1", "note": "the DJ booth, UVA, mid-late 1980s", "layer": 0 },
+      { "id": "berman", "name": "David Berman", "note": "2–6 a.m. shift; 'the study hall'", "layer": 1 },
+      { "id": "malkmus", "name": "Stephen Malkmus", "note": "overnight DJ, class of '88", "layer": 1 },
+      { "id": "nastanovich", "name": "Bob Nastanovich", "note": "met through the station", "layer": 1 },
+      { "id": "mcnew", "name": "James McNew", "note": "Charlottesville native, DJing there", "layer": 1 },
+      { "id": "vanarman", "name": "Darius Van Arman", "note": "music director → dropped out for a label", "layer": 1 },
+      { "id": "silverjews", "name": "Silver Jews", "note": "home tapes, 1989", "layer": 2 },
+      { "id": "purplemountains", "name": "Purple Mountains", "note": "Berman's last act, 2019", "layer": 2 },
+      { "id": "ectoslavia", "name": "Ectoslavia", "note": "Berman's Red House noise project", "layer": 2 },
+      { "id": "pavement", "name": "Pavement", "note": "debut EP, 1989", "layer": 2 },
+      { "id": "yolatengo", "name": "Yo La Tengo", "note": "McNew joined as bassist, 1992", "layer": 2 },
+      { "id": "jagjaguwar", "name": "Jagjaguwar", "note": "Van Arman, 1996 → Secretly Group", "layer": 2 },
+      { "id": "songo", "name": "Songs: Ohia", "note": "the Molina bridge", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "wtju", "to": "berman", "label": "the booth" },
+      { "from": "wtju", "to": "malkmus", "label": "the booth" },
+      { "from": "wtju", "to": "nastanovich", "label": "the booth" },
+      { "from": "wtju", "to": "mcnew", "label": "the booth" },
+      { "from": "wtju", "to": "vanarman", "label": "music director" },
+      { "from": "berman", "to": "ectoslavia", "label": "founded" },
+      { "from": "berman", "to": "silverjews", "label": "co-founded" },
+      { "from": "malkmus", "to": "pavement", "label": "co-founded" },
+      { "from": "nastanovich", "to": "pavement", "label": "percussion" },
+      { "from": "mcnew", "to": "yolatengo", "label": "joined 1992" },
+      { "from": "vanarman", "to": "jagjaguwar", "label": "founded 1996" },
+      { "from": "berman", "to": "purplemountains", "label": "2019" },
+      { "from": "silverjews", "to": "songo", "label": "Molina bridge" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Pavement", "title": "Box Elder", "year": 1989, "album": "Slay Tracks: 1933–1969" },
+    { "artist": "Pavement", "title": "Frontwards", "year": 1992, "album": "Watery, Domestic EP" },
+    { "artist": "Pavement", "title": "Gold Soundz", "year": 1994, "album": "Crooked Rain, Crooked Rain" },
+    { "artist": "Stephen Malkmus & The Jicks", "title": "Lariat", "year": 2014, "album": "Wig Out at Jagbags" },
+    { "artist": "Silver Jews", "title": "Trains Across the Sea", "year": 1994, "album": "Starlite Walker" },
+    { "artist": "Silver Jews", "title": "Albemarle Station", "year": 1996, "album": "The Natural Bridge" },
+    { "artist": "Silver Jews", "title": "Random Rules", "year": 1998, "album": "American Water" },
+    { "artist": "Silver Jews", "title": "Tennessee", "year": 2001, "album": "Bright Flight" },
+    { "artist": "Purple Mountains", "title": "All My Happiness Is Gone", "year": 2019, "album": "Purple Mountains" },
+    { "artist": "Purple Mountains", "title": "Snow Is Falling in Manhattan", "year": 2019, "album": "Purple Mountains" },
+    { "artist": "Yo La Tengo", "title": "Tom Courtenay", "year": 1995, "album": "Electr-O-Pura" },
+    { "artist": "Yo La Tengo", "title": "Decora", "year": 1995, "album": "Electr-O-Pura" },
+    { "artist": "Songs: Ohia", "title": "Coxcomb Red", "year": 2000, "album": "The Lioness" },
+    { "artist": "Songs: Ohia", "title": "Farewell Transmission", "year": 2003, "album": "Magnolia Electric Co." }
+  ],
+  "essay": "Every one of these threads eventually runs back to a single room: the DJ booth at WTJU 91.1, the free-form, student-run college radio station at the University of Virginia in Charlottesville, in the mid-to-late 1980s.\n\nThe cast: David Berman (Col '89, English/poetry) had a 2-6 a.m. shift he described later as 'The music was the education. WTJU was the study hall.' Stephen Malkmus (Col '88, history), a year ahead of Berman, was another overnight DJ, and met Berman and Bob Nastanovich through the station and the Charlottesville show circuit. James McNew, a Charlottesville native studying Japanese at UVA, was DJing there too. And Darius Van Arman, a few years behind them, became WTJU's music director before dropping out to found a record label out of overtime pay.\n\nOut of that scene came Ectoslavia, Berman's chaotic noise-collage project based in the 'Red House' group house. Malkmus and Nastanovich were both kicked out of it by Berman. After graduation, Malkmus and Berman both moved to New York and took jobs as security guards at the Whitney Museum. In 1989 they started recording home tapes as Silver Jews — the same year Malkmus's other project, Pavement, put out its debut EP. McNew joined Yo La Tengo as permanent bassist in 1992. Van Arman started Jagjaguwar in 1996; three years later it merged with Secretly Canadian to form Secretly Group.\n\nNone of these bands ever really 'belonged' to Charlottesville in the public imagination — Berman used to joke he was preparing for a future where more people said 'David Berman was from here' than said it about Dave Matthews. That hasn't happened. But the tape collection at a college radio station clearly did something."
+}

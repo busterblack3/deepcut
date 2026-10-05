@@ -1,0 +1,53 @@
+{
+  "id": "2026-07-09-slint-family-tree",
+  "title": "The Slint Family Tree: Louisville's Quiet Empire",
+  "date": "2026-07-09",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/1Wckw41lq62bkfviVLPXXV",
+  "spotifyId": "1Wckw41lq62bkfviVLPXXV",
+  "description": "Slint/Pajo/Walford lineage + the Louisville-Chicago post-rock-slowcore axis — Papa M, Aerial M, Palace, Rodan, June of 44, Rachel's, Tortoise, Gastr del Sol, The For Carnation",
+  "themes": ["slint", "post-rock", "louisville", "drag-city", "david-pajo"],
+  "familyTree": {
+    "layerLabels": ["the trunk", "the offshoots", "the wider web"],
+    "nodes": [
+      { "id": "slint", "name": "Slint", "note": "Spiderland, 1991 — the trunk", "layer": 0 },
+      { "id": "papam", "name": "Papa M", "note": "Pajo's solo project, 1999", "layer": 1 },
+      { "id": "aerialm", "name": "Aerial M", "note": "Pajo's duo, 1997", "layer": 1 },
+      { "id": "tortoise", "name": "Tortoise", "note": "Pajo joined, 1995", "layer": 1 },
+      { "id": "palace", "name": "Palace Brothers", "note": "Walford + McMahan on Oldham's debut", "layer": 1 },
+      { "id": "forcarnation", "name": "The For Carnation", "note": "McMahan's post-Slint project", "layer": 1 },
+      { "id": "rodan", "name": "Rodan", "note": "Louisville, 1994", "layer": 2 },
+      { "id": "juneof44", "name": "June of 44", "note": "Rodan offshoot, 1996", "layer": 2 },
+      { "id": "rachels", "name": "Rachel's", "note": "chamber post-rock, Louisville", "layer": 2 },
+      { "id": "gastr", "name": "Gastr del Sol", "note": "Chicago wing, McEntire", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "slint", "to": "papam", "label": "Pajo" },
+      { "from": "slint", "to": "aerialm", "label": "Pajo" },
+      { "from": "slint", "to": "tortoise", "label": "Pajo" },
+      { "from": "slint", "to": "palace", "label": "Walford + McMahan" },
+      { "from": "slint", "to": "forcarnation", "label": "McMahan" },
+      { "from": "slint", "to": "rodan", "label": "Louisville sound" },
+      { "from": "rodan", "to": "juneof44", "label": "members" },
+      { "from": "slint", "to": "rachels", "label": "same scene" },
+      { "from": "slint", "to": "gastr", "label": "Chicago wing" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Slint", "title": "Good Morning, Captain", "year": 1991, "album": "Spiderland" },
+    { "artist": "Slint", "title": "Nosferatu Man", "year": 1991, "album": "Spiderland" },
+    { "artist": "Papa M", "title": "Arundel (II)", "year": 1999, "album": "Live from a Shark Cage" },
+    { "artist": "Papa M", "title": "Roadrunner", "year": 1999, "album": "Live from a Shark Cage" },
+    { "artist": "Aerial M", "title": "Skrag Theme", "year": 1997, "album": "Aerial M" },
+    { "artist": "Palace Brothers", "title": "Riding", "year": 1993, "album": "There Is No-One What Will Take Care of You" },
+    { "artist": "Palace Music", "title": "New Partner", "year": 1995, "album": "Viva Last Blues" },
+    { "artist": "Bonnie \"Prince\" Billy", "title": "I See a Darkness", "year": 1999, "album": "I See a Darkness" },
+    { "artist": "Tortoise", "title": "Djed", "year": 1996, "album": "Millions Now Living Will Never Die" },
+    { "artist": "Rachel's", "title": "Full on Night", "year": 1995, "album": "Handwriting" },
+    { "artist": "Rodan", "title": "Bible Silver Corner", "year": 1994, "album": "Rusty" },
+    { "artist": "June of 44", "title": "Sharks and Sailors", "year": 1996, "album": "The Anatomy of Sharks and Sails" },
+    { "artist": "Gastr del Sol", "title": "Blues Subtitled No Sense of Wonder", "year": 1998, "album": "Camoufleur" },
+    { "artist": "The For Carnation", "title": "Lymr, Marshmallow", "year": 2007, "album": "Promised Works" }
+  ],
+  "essay": "Slint recorded Spiderland in 1990 (released 1991) as four Louisville kids — Brian McMahan, David Pajo, Britt Walford, and Todd Brashear — and then broke up before it came out. It became one of the most influential 'post-rock' records of the 90s almost by accident, then its members scattered into a decade-plus of overlapping side projects that touch nearly everything in this playlist.\n\nTwo threads matter most: David Pajo, who went on to Tortoise, then stripped things down to solo/duo work as Aerial M and later Papa M; and Britt Walford, the drummer, who played drums (and guitar, bass) on Will Oldham's 1993 Palace Brothers debut alongside fellow Slint member Brian McMahan. That means Will Oldham's very first record as a bandleader is, functionally, a Slint session.\n\nFrom there the web spreads to Rodan and June of 44 (Louisville contemporaries sharing members and a shared 'Louisville sound' built on start-stop dynamics and whisper-to-roar arrangements), Rachel's (chamber-post-rock, same scene, different instrumentation), Tortoise and Gastr del Sol (the Chicago wing, overlapping via Pajo and John McEntire), and The For Carnation (McMahan's own post-Slint project) — closing the loop back to the original band."
+}

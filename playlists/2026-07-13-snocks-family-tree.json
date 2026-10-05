@@ -1,0 +1,53 @@
+{
+  "id": "2026-07-13-snocks-family-tree",
+  "title": "Snock's Family Tree: Michael Hurley & the Godfathers of Weirdo Folk",
+  "date": "2026-07-13",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/558o1ktP56VyQA9cUtTn9Z",
+  "spotifyId": "558o1ktP56VyQA9cUtTn9Z",
+  "description": "Michael Hurley's actual family tree — the Holy Modal Rounders, the 1976 Have Moicy! supergroup, and the disciples who kept his songs alive: Cat Power, Yo La Tengo, Vetiver, Will Oldham",
+  "themes": ["michael-hurley", "weirdo-folk", "holy-modal-rounders", "will-oldham", "cat-power"],
+  "familyTree": {
+    "layerLabels": ["the roots", "the godfather", "the disciples"],
+    "nodes": [
+      { "id": "leadbelly", "name": "Lead Belly", "note": "final sessions, same reel-to-reel", "layer": 0 },
+      { "id": "village", "name": "NY folk revival", "note": "Dylan & Ochs' scene — Hurley skipped it", "layer": 0 },
+      { "id": "hurley", "name": "Michael Hurley", "note": "Snock — first album 1964, ~30 records", "layer": 1 },
+      { "id": "hmr", "name": "Holy Modal Rounders", "note": "the band he orbited", "layer": 2 },
+      { "id": "havemoicy", "name": "Have Moicy! supergroup", "note": "Unholy Modal Rounders + Clamtones, 1976", "layer": 2 },
+      { "id": "catpower", "name": "Cat Power", "note": "covered Sweedeedee + Werewolf", "layer": 2 },
+      { "id": "yolatengo", "name": "Yo La Tengo", "note": "Griselda on Fakebook, 1990", "layer": 2 },
+      { "id": "vetiver", "name": "Vetiver", "note": "Blue Driver cover, 2008", "layer": 2 },
+      { "id": "oldham", "name": "Will Oldham", "note": "prefigured by Light Green Fellow", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "leadbelly", "to": "hurley", "label": "the machine" },
+      { "from": "village", "to": "hurley", "label": "turned away" },
+      { "from": "hurley", "to": "hmr", "label": "orbited" },
+      { "from": "hmr", "to": "havemoicy", "label": "became" },
+      { "from": "hurley", "to": "havemoicy", "label": "1976" },
+      { "from": "hurley", "to": "catpower", "label": "covers" },
+      { "from": "hurley", "to": "yolatengo", "label": "covers" },
+      { "from": "hurley", "to": "vetiver", "label": "covers" },
+      { "from": "hurley", "to": "oldham", "label": "prefigured" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Michael Hurley", "title": "The Werewolf Song", "year": 1964, "album": "First Songs" },
+    { "artist": "The Holy Modal Rounders", "title": "Bird Song", "year": 1968, "album": "The Moray Eels Eat the Holy Modal Rounders" },
+    { "artist": "The Holy Modal Rounders", "title": "Half a Mind", "year": 1968, "album": "The Moray Eels Eat the Holy Modal Rounders" },
+    { "artist": "Michael Hurley", "title": "Light Green Fellow", "year": 1971, "album": "Armchair Boogie" },
+    { "artist": "Michael Hurley, Unholy Modal Rounders & Jeffrey Frederick & the Clamtones", "title": "Slurf Song", "year": 1976, "album": "Have Moicy!" },
+    { "artist": "Michael Hurley, Unholy Modal Rounders & Jeffrey Frederick & the Clamtones", "title": "Griselda", "year": 1976, "album": "Have Moicy!" },
+    { "artist": "Michael Hurley, Unholy Modal Rounders & Jeffrey Frederick & the Clamtones", "title": "Sweet Lucy", "year": 1976, "album": "Have Moicy!" },
+    { "artist": "Michael Hurley", "title": "Hog of the Forsaken", "year": 1976, "album": "Long Journey" },
+    { "artist": "Michael Hurley", "title": "O My Stars", "year": 1980, "album": "Snockgrass" },
+    { "artist": "Cat Power", "title": "Sweedeedee", "year": 2000, "album": "The Covers Record" },
+    { "artist": "Cat Power", "title": "Werewolf", "year": 2003, "album": "You Are Free" },
+    { "artist": "Yo La Tengo", "title": "Griselda", "year": 1990, "album": "Fakebook" },
+    { "artist": "Vetiver", "title": "Blue Driver", "year": 2008, "album": "Thing of the Past" },
+    { "artist": "Palace Brothers", "title": "Ohio River Boat Song", "year": 1993, "album": "Lost Blues and Other Songs" },
+    { "artist": "Michael Hurley", "title": "Wildegeeses", "year": 2009, "album": "Ida Con Snock" }
+  ],
+  "essay": "Michael Hurley died on April 1, 2025, in Astoria, Oregon, at 83 — quietly, on his own terms. The obituaries all reached for the same word: 'godfather.' Godfather of freak folk, godfather of outsider Americana. He recorded his first album in 1964 for Folkways on the same reel-to-reel machine that had captured Lead Belly's final sessions.\n\nHe was never part of the Village folk-revival scene of Dylan and Ochs, even though he was right there in New York at the same moment — instead he drifted toward the Holy Modal Rounders' lane of gleeful, ramshackle weirdness, wrote a werewolf into a country waltz, and kept making records — something like 30 of them — until the year he died.\n\nThis playlist traces Hurley's actual family tree: the Holy Modal Rounders (the band he orbited without officially joining), the 1976 'Have Moicy!' supergroup, and the two-generations-deep chain of disciples who kept his songs alive — Cat Power, Yo La Tengo, Vetiver, and Will Oldham, who has been explicit about the connection. An Americana UK writer pointed out that Hurley's 1971 'Light Green Fellow' — skeletal fiddle, lonesome guitar, a menacing/tender ambiguous narrator — 'prefigured Will Oldham's Palace Brothers by a couple of decades.' You can hear it."
+}
