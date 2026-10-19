@@ -1,0 +1,62 @@
+{
+  "id": "2026-08-03-before-the-riff",
+  "title": "Before the Riff: The Blues Boom That Built Black Sabbath",
+  "date": "2026-08-03",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/1AaVjVs9eeAutAK2wJX3s7",
+  "spotifyId": "1AaVjVs9eeAutAK2wJX3s7",
+  "description": "the British blues boom that made heavy metal possible — Mayall's Bluesbreakers, Cream, Peter Green's Fleetwood Mac, and the three Sabbath deep cuts at the dark end",
+  "themes": ["black-sabbath", "british-blues", "john-mayall", "peter-green", "cream", "deep-cuts", "classic-rock"],
+  "familyTree": {
+    "layerLabels": ["the scene", "the door", "what came through"],
+    "nodes": [
+      { "id": "boom", "name": "the British blues boom", "note": "1965-68, London clubs", "layer": 0 },
+      { "id": "beano", "name": "the Beano Album", "note": "1966 — Clapton's tone, recorded on a Les Paul through a Marshall", "layer": 0 },
+      { "id": "mayall", "name": "John Mayall & the Bluesbreakers", "note": "the finishing school — every guitarist passed through", "layer": 1 },
+      { "id": "clapton", "name": "Eric Clapton", "note": "1965-66, left to found Cream", "layer": 2 },
+      { "id": "green", "name": "Peter Green", "note": "1966-67, 'the Green God', left to found Fleetwood Mac", "layer": 2 },
+      { "id": "taylor", "name": "Mick Taylor", "note": "1967-69, left for the Rolling Stones", "layer": 2 },
+      { "id": "dunbar", "name": "Aynsley Dunbar", "note": "drummer, fired — hence 'Retaliation'", "layer": 2 },
+      { "id": "cream", "name": "Cream", "note": "heavier, faster, louder", "layer": 2 },
+      { "id": "mac", "name": "Peter Green's Fleetwood Mac", "note": "darker, atmospheric — the doom side", "layer": 2 },
+      { "id": "stones", "name": "The Rolling Stones", "note": "Taylor's 1969-74 run", "layer": 2 },
+      { "id": "retaliation", "name": "Aynsley Dunbar Retaliation", "note": "wrote 'Warning' in 1967", "layer": 2 },
+      { "id": "tull", "name": "Jethro Tull", "note": "Iommi's two weeks, Dec 1968", "layer": 2 },
+      { "id": "sabbath", "name": "Black Sabbath", "note": "the same blues, one register darker and slower", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "boom", "to": "mayall", "label": "the hub" },
+      { "from": "beano", "to": "mayall", "label": "the sound" },
+      { "from": "mayall", "to": "clapton", "label": "1965-66" },
+      { "from": "mayall", "to": "green", "label": "1966-67" },
+      { "from": "mayall", "to": "taylor", "label": "1967-69" },
+      { "from": "mayall", "to": "dunbar", "label": "drums" },
+      { "from": "clapton", "to": "cream", "label": "founded" },
+      { "from": "green", "to": "mac", "label": "founded" },
+      { "from": "taylor", "to": "stones", "label": "joined" },
+      { "from": "dunbar", "to": "retaliation", "label": "founded" },
+      { "from": "retaliation", "to": "sabbath", "label": "'Warning' covered, 1970" },
+      { "from": "green", "to": "sabbath", "label": "the darkness they'd inherit" },
+      { "from": "tull", "to": "sabbath", "label": "Iommi, Dec 1968" },
+      { "from": "cream", "to": "sabbath", "label": "the weight" }
+    ]
+  },
+  "tracks": [
+    { "artist": "John Mayall & the Bluesbreakers", "title": "Double Crossin' Time", "year": 1966, "album": "Blues Breakers (the Beano Album)" },
+    { "artist": "John Mayall & the Bluesbreakers", "title": "The Super-Natural", "year": 1967, "album": "A Hard Road" },
+    { "artist": "Cream", "title": "Tales of Brave Ulysses", "year": 1967, "album": "Disraeli Gears" },
+    { "artist": "Cream", "title": "SWLABR", "year": 1967, "album": "Disraeli Gears" },
+    { "artist": "Cream", "title": "Politician", "year": 1968, "album": "Wheels of Fire" },
+    { "artist": "Fleetwood Mac", "title": "Black Magic Woman", "year": 1968 },
+    { "artist": "Fleetwood Mac", "title": "Oh Well, Pt. 1", "year": 1969, "album": "Then Play On" },
+    { "artist": "Fleetwood Mac", "title": "Rattlesnake Shake", "year": 1969, "album": "Then Play On" },
+    { "artist": "Fleetwood Mac", "title": "The Green Manalishi (With the Two Prong Crown)", "year": 1970 },
+    { "artist": "Ten Years After", "title": "Hear Me Calling", "year": 1969, "album": "Stonedhenge" },
+    { "artist": "Jethro Tull", "title": "A Song for Jeffrey", "year": 1968, "album": "This Was" },
+    { "artist": "Aynsley Dunbar Retaliation", "title": "Warning", "year": 1967 },
+    { "artist": "Black Sabbath", "title": "Behind the Wall of Sleep", "year": 1970, "album": "Black Sabbath" },
+    { "artist": "Black Sabbath", "title": "The Wizard", "year": 1970, "album": "Black Sabbath" },
+    { "artist": "Black Sabbath", "title": "N.I.B.", "year": 1970, "album": "Black Sabbath" }
+  ],
+  "essay": "Everybody knows the Black Sabbath origin story in outline — four working-class kids from Aston, a horror movie marquee across the street, a tritone, heavy metal invented by accident in a Birmingham rehearsal room in 1969. What gets flattened in the retelling is that Sabbath didn't emerge from nothing. Before they were Black Sabbath they were Earth, and before that, Tony Iommi and Bill Ward were just two more kids trying to sound like the British blues bands blowing up around them. Iommi has said it flat-out: \"There was Zeppelin and Cream. I liked Clapton and we done a few gigs in the early days with John Mayall... I liked blues played on a more modern sounding guitar. That was sort of the way we went, only coming up with more doomy stuff.\" Sabbath wasn't a rejection of the British blues boom — it was blues-boom rock pushed one register darker and slower until it broke into something new.\n\nThis playlist traces that lineage literally, mostly through one man's band. John Mayall's Bluesbreakers functioned as an open door for the entire scene — guitarists rotated through like a finishing school: Eric Clapton (1965-66, left for Cream), then Peter Green (1966-67, left to found Fleetwood Mac), then Mick Taylor (1967-69, left for the Rolling Stones). Drummer Aynsley Dunbar also passed through before getting fired and starting his own group, the Aynsley Dunbar Retaliation — whose 1967 song \"Warning\" became, two and a half years later, a stretched-out ten-minute Sabbath deep cut on their debut. That's the whole story in miniature: a Mayall alumnus's song, slowed down and heavied up by four Birmingham kids.\n\nThe other branch is Peter Green's own trajectory. He left Mayall in 1967 specifically because he felt the Bluesbreakers were drifting away from straight blues, and founded Fleetwood Mac to chase something heavier and more atmospheric. \"Black Magic Woman,\" \"Oh Well,\" and especially 1970's \"The Green Manalishi (With the Two Prong Crown)\" — written after a nightmare about money turning into a snarling green monster, while his mental health was cracking — are about as close to pre-Sabbath doom as 1970 gets: minor-key riffs, occult imagery, dread as a formal device. Judas Priest later covered it as a straight metal song, which tells you plenty.\n\nCream gets three tracks because \"Sunshine of Your Love\" isn't even the heaviest thing they did — \"Politician\" is a slow, sneering blues stomp closer in tempo and menace to early Sabbath than anything on Disraeli Gears' psych-pop A-sides. Ten Years After's \"Hear Me Calling\" shows the same scene pushing toward volume and sustain rather than song craft. And Jethro Tull's \"A Song for Jeffrey\" earns its spot on a great asterisk: Iommi quit Earth in December 1968 to join Tull for about two weeks (he even appears, miming, on the Rolling Stones Rock and Roll Circus TV special), decided Ian Anderson's one-man-band leadership wasn't for him, and went back to Birmingham \"with a new attitude altogether\" — determined to build something on his own terms. Without that short failed audition, there's a real argument Sabbath doesn't happen the way it did.\n\nThe playlist closes with three of Sabbath's own early deep cuts — not \"Iron Man\"/\"Paranoid,\" but \"Behind the Wall of Sleep,\" \"The Wizard,\" and \"N.I.B.\" from the 1970 debut, recorded live-in-the-room over two days because that's all the studio time they could afford. Played back to back with the Mayall and Green tracks, the lineage is audible in real time: same blues scales, same 12-bar bones, just slowed down, tuned down, and pointed at something darker.\n\nA small cataloging note: Sabbath's actual \"Warning\" cover isn't on Spotify as a standalone track — it only exists bundled into the 14-minute \"A Bit of Finger / Sleeping Village / Warning\" medley — so rather than force that onto the playlist, the Aynsley Dunbar original stands in, which tells the same story just as well: you get to hear where the song started."
+}

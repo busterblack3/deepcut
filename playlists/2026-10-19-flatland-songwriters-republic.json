@@ -1,0 +1,206 @@
+{
+  "id": "2026-10-19-flatland-songwriters-republic",
+  "title": "The Flatland Songwriter's Republic: Texas, 1972–79",
+  "date": "2026-10-19",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/0loCwodLd5YDOQcxGLFrSZ",
+  "spotifyId": "0loCwodLd5YDOQcxGLFrSZ",
+  "description": "Austin's progressive-country crossroads, Lubbock's backroad songwriter network, and the Texas stories that traveled farther than Nashville expected.",
+  "themes": [
+    "texas-songwriters",
+    "progressive-country",
+    "cosmic-cowboy",
+    "lubbock",
+    "flatlanders",
+    "townes-van-zandt",
+    "guy-clark",
+    "terry-allen",
+    "deep-cuts"
+  ],
+  "familyTree": {
+    "layerLabels": [
+      "the places",
+      "the writers & rooms",
+      "the recordings that traveled"
+    ],
+    "nodes": [
+      {
+        "id": "armadillo",
+        "name": "Armadillo World Headquarters",
+        "note": "Austin; opened 1970; country, blues, rock, jazz, folk",
+        "layer": 0
+      },
+      {
+        "id": "lubbock",
+        "name": "Lubbock / Odessa",
+        "note": "Flatlands songwriting; the Flatlanders tapes",
+        "layer": 0
+      },
+      {
+        "id": "houston",
+        "name": "Old Quarter",
+        "note": "Houston songwriter room; Townes live tape, 1973",
+        "layer": 0
+      },
+      {
+        "id": "austin",
+        "name": "Austin progressive country",
+        "note": "a loose musical crossroads, not a single sound",
+        "layer": 1
+      },
+      {
+        "id": "flatlanders",
+        "name": "The Flatlanders",
+        "note": "Joe Ely, Butch Hancock, Jimmie Dale Gilmore; formed 1972",
+        "layer": 1
+      },
+      {
+        "id": "clark",
+        "name": "Guy Clark",
+        "note": "Old No. 1, 1975; wrote Desperados Waiting for a Train",
+        "layer": 1
+      },
+      {
+        "id": "townes",
+        "name": "Townes Van Zandt",
+        "note": "1970s songs move between intimate rooms and studio versions",
+        "layer": 1
+      },
+      {
+        "id": "allen",
+        "name": "Terry Allen",
+        "note": "artist-songwriter; Lubbock (on everything), 1979",
+        "layer": 1
+      },
+      {
+        "id": "interpretations",
+        "name": "Songs travel by interpretation",
+        "note": "Walker, Harris, Ely, Sahm and others carry the network outward",
+        "layer": 2
+      },
+      {
+        "id": "odessa",
+        "name": "The Odessa Tapes",
+        "note": "1972 recordings restored and released 2012",
+        "layer": 2
+      }
+    ],
+    "edges": [
+      {
+        "from": "armadillo",
+        "to": "austin",
+        "label": "venue & crossroads"
+      },
+      {
+        "from": "lubbock",
+        "to": "flatlanders",
+        "label": "formed 1972"
+      },
+      {
+        "from": "flatlanders",
+        "to": "interpretations",
+        "label": "Ely / Hancock songs"
+      },
+      {
+        "from": "houston",
+        "to": "townes",
+        "label": "live recording 1973"
+      },
+      {
+        "from": "clark",
+        "to": "interpretations",
+        "label": "Walker records his song"
+      },
+      {
+        "from": "townes",
+        "to": "interpretations",
+        "label": "Harris records Pancho & Lefty"
+      },
+      {
+        "from": "allen",
+        "to": "lubbock",
+        "label": "1978 sessions / 1979 LP"
+      },
+      {
+        "from": "lubbock",
+        "to": "odessa",
+        "label": "tapes cut nearby"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "artist": "Willis Alan Ramsey",
+      "title": "Northeast Texas Women",
+      "year": 1972,
+      "album": "Willis Alan Ramsey"
+    },
+    {
+      "artist": "Doug Sahm",
+      "title": "It's Gonna Be Easy",
+      "year": 1973,
+      "album": "Doug Sahm and Band"
+    },
+    {
+      "artist": "Jerry Jeff Walker",
+      "title": "Desperados Waiting for a Train",
+      "year": 1973,
+      "album": "Viva Terlingua!"
+    },
+    {
+      "artist": "Guy Clark",
+      "title": "Texas 1947",
+      "year": 1975,
+      "album": "Old No. 1"
+    },
+    {
+      "artist": "Guy Clark",
+      "title": "Let Him Roll",
+      "year": 1975,
+      "album": "Old No. 1"
+    },
+    {
+      "artist": "Townes Van Zandt",
+      "title": "Rex's Blues – Live",
+      "year": 1977,
+      "album": "Live at the Old Quarter, Houston, Texas (recorded 1973)"
+    },
+    {
+      "artist": "Emmylou Harris",
+      "title": "Pancho & Lefty",
+      "year": 1977,
+      "album": "Luxury Liner"
+    },
+    {
+      "artist": "Joe Ely",
+      "title": "She Never Spoke Spanish to Me",
+      "year": 1977,
+      "album": "Joe Ely"
+    },
+    {
+      "artist": "Townes Van Zandt",
+      "title": "No Place to Fall",
+      "year": 1978,
+      "album": "Flyin' Shoes"
+    },
+    {
+      "artist": "Terry Allen",
+      "title": "Amarillo Highway (for Dave Hickey)",
+      "year": 1979,
+      "album": "Lubbock (on everything) (recorded 1978)"
+    },
+    {
+      "artist": "Terry Allen",
+      "title": "Truckload of Art",
+      "year": 1979,
+      "album": "Lubbock (on everything) (recorded 1978)"
+    },
+    {
+      "artist": "The Flatlanders",
+      "title": "Dallas",
+      "year": 2012,
+      "album": "The Odessa Tapes (recorded January 1972)"
+    }
+  ],
+  "essay": "This is a map, not a genre box. Between 1972 and 1979, Texas songwriters built a musical republic out of different local accents: Austin's country-meets-rock crossroads, Lubbock's West Texas voices, Houston's intimate songwriter rooms, and the long arm of Nashville sessions. The Armadillo World Headquarters opened in Austin in August 1970 in a converted armory; its mixed bill put country alongside blues, rock, jazz, and folk, and regional acts often opened for touring bands. The Texas State Historical Association calls the resulting hybrid “progressive country” or “cosmic cowboy.” Useful as a street sign, the label is not a sound: these artists did not all play alike or come from Austin. Their common ground is the writer's ear—plainspoken characters, local detail, and a willingness to leave a song strange rather than polish it into a Nashville product.\n\nLubbock supplies the lost-and-found story. Joe Ely, Butch Hancock, and Jimmie Dale Gilmore formed the Flatlanders in 1972; that January they cut 14 songs at a studio in nearby Odessa. The tape did not make them stars; it became a rumour, then a legend, and the restored Odessa recordings finally surfaced as The Odessa Tapes in 2012. Ely's 1977 debut makes the connection audible: “She Never Spoke Spanish to Me,” co-written with Hancock, was first released by Ely. Terry Allen, visual artist as well as songwriter, made Lubbock (on everything) after returning to Lubbock. Recorded at Caldwell Studios in 1978 and released in 1979, the double album brought in Ely's band as backing musicians; their sturdy West Texas sound is a foil for Allen's sharp, oddball memory sketches.\n\nThe songs reveal how a local network travels without becoming a tidy scene. Guy Clark's Old No. 1 (1975) contains the miniature worlds of “Texas 1947” and “Let Him Roll”; Clark's “Desperados Waiting for a Train” reached listeners first in Jerry Jeff Walker's 1973 live recording at Luckenbach Dancehall. Townes Van Zandt's Old Quarter performances in Houston were recorded in July 1973 but not issued until 1977, keeping the room and its proprietor Rex “Wrecks” Bell in the songwriter mythology. Emmylou Harris cut “Pancho & Lefty” for Luxury Liner in 1977, carrying Townes's song beyond his own circle. Doug Sahm's 1973 band album brings Bob Dylan into the guest lineup, including on “It's Gonna Be Easy.” The songs are not merely famous names passing a guitar around: they are writers and interpreters carrying Texas detail into different musical rooms.\n\nThe arc moves from the early-’70s seedbed through the mid-decade songwriter albums and into Allen's 1979 double record, then closes with a time-loop: the Flatlanders' “Dallas” is presented from the 2012 Odessa Tapes, but it was captured in 1972. That late arrival is the point. The republic was already there; the rest of the world simply took a while to hear the tape.\n\nTrack notes are documented in the October 19 daily note; key sources include the Texas State Historical Association's Armadillo history, American Songwriter on the Odessa sessions, SecondHandSongs' songwriter/performance records, Charly Records' Flyin' Shoes liner history, Rolling Stone on Harris's cover, and Pitchfork plus Terry Allen's Bandcamp for Lubbock (on everything)."
+}
