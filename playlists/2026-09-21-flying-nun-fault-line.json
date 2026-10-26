@@ -1,0 +1,29 @@
+{
+  "id": "2026-09-21-flying-nun-fault-line",
+  "title": "The Flying Nun Fault Line: New Zealand Underground 1981–95",
+  "date": "2026-09-21",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/6a1sC2nEkPX44sUzAqzdLv",
+  "spotifyId": "6a1sC2nEkPX44sUzAqzdLv",
+  "description": "Flying Nun Records' strange, melodic New Zealand underground: Dunedin jangle, Christchurch post-punk, dark art-rock, and the noisy lineage into the 1990s.",
+  "themes": ["flying-nun", "new-zealand", "dunedin-sound", "christchurch", "post-punk", "indie-rock", "deep-cuts"],
+  "tracks": [
+    {"artist":"The Clean","title":"Tally Ho!","year":1981,"album":"Tally Ho! / Platypus"},
+    {"artist":"Tall Dwarfs","title":"Nothing's Going to Happen","year":1981,"album":"Unravelled: 1981–2002"},
+    {"artist":"The Chills","title":"Pink Frost","year":1984,"album":"Kaleidoscope World"},
+    {"artist":"The Verlaines","title":"Death and the Maiden","year":1983,"album":"Tuatara"},
+    {"artist":"Look Blue Go Purple","title":"Cactus Cat","year":1986,"album":"Look Blue Go Purple Compilation"},
+    {"artist":"The Bats","title":"Made Up in Blue","year":1986,"album":"Daddy's Highway"},
+    {"artist":"The Bats","title":"North by North","year":1987,"album":"Daddy's Highway"},
+    {"artist":"Sneaky Feelings","title":"Husband House","year":1985,"album":"Send You"},
+    {"artist":"The Jean-Paul Sartre Experience","title":"I Like Rain","year":1988,"album":"Love Songs"},
+    {"artist":"The Jean-Paul Sartre Experience","title":"Shadows","year":1989,"album":"The Size of Food"},
+    {"artist":"This Kind of Punishment","title":"The Sleepwalker","year":1984,"album":"A Beard of Bees"},
+    {"artist":"Straitjacket Fits","title":"She Speeds","year":1988,"album":"Hail"},
+    {"artist":"Headless Chickens","title":"Cruise Control","year":1991,"album":"Body Blow"},
+    {"artist":"The Terminals","title":"The Deadly Tango","year":1989,"album":"Uncoffined"},
+    {"artist":"The 3Ds","title":"Hey Seuss","year":1994,"album":"The Venus Trail"},
+    {"artist":"Bailter Space","title":"Splat","year":1995,"album":"Wammo"}
+  ],
+  "essay": "Flying Nun is one of the great examples of a local record label becoming a world-sized idea without ever sounding like a marketing department. Roger Shepherd started it in Christchurch in 1981 to document the punk and post-punk bands around him; the musical center of gravity was often farther south, in Dunedin, where university-town isolation and a few unusually melodic weirdos produced what outsiders called the Dunedin Sound. The label was never just jangly guitars: its catalog also held four-track experiments, severe Auckland post-punk, dark art-rock, backwards guitar, electronic abrasion, and songs that could move from a pretty chorus to genuinely unnerving noise. The sequence follows that fault line from The Clean's founding single through The Chills, The Verlaines, Look Blue Go Purple, The Bats, the shadowy art-rock branch, and the feedback-heavy 1990s aftermath. The through-line is a method rather than a genre: economy, melodicism, local eccentricity, and a suspicion of polish."
+}

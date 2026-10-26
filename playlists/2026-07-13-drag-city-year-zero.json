@@ -1,0 +1,51 @@
+{
+  "id": "2026-07-13-drag-city-year-zero",
+  "title": "Drag City Year Zero: Chicago 1990–1994",
+  "date": "2026-07-13",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/26q91LwYvmRNcUxxFxgDBs",
+  "spotifyId": "26q91LwYvmRNcUxxFxgDBs",
+  "description": "The label's founding years — Royal Trux DC1, Pavement's early EPs, Palace Brothers/Slint connection, Smog's Julius Caesar, Gastr del Sol, Silver Jews' Starlite Walker",
+  "themes": ["drag-city", "pavement", "royal-trux", "smog", "silver-jews", "chicago"],
+  "familyTree": {
+    "layerLabels": ["the founders", "the label", "the early roster"],
+    "nodes": [
+      { "id": "danx2", "name": "Dan Koretzky + Dan Osborn", "note": "record-store clerks, Chicago 1989", "layer": 0 },
+      { "id": "dragcity", "name": "Drag City", "note": "started on weird 7\"s, no money", "layer": 1 },
+      { "id": "royaltrux", "name": "Royal Trux", "note": "DC1 — Hero/Zero 7\", 1990", "layer": 2 },
+      { "id": "pavement", "name": "Pavement", "note": "DC2 — Demolition Plot J-7", "layer": 2 },
+      { "id": "palace", "name": "Palace Brothers", "note": "Slint's rhythm section, 1993", "layer": 2 },
+      { "id": "smog", "name": "Smog", "note": "Julius Caesar, 1993", "layer": 2 },
+      { "id": "gastr", "name": "Gastr del Sol", "note": "Grubbs' post-hardcore fold, 1994", "layer": 2 },
+      { "id": "silverjews", "name": "Silver Jews", "note": "Berman's tapes, Starlite Walker 1994", "layer": 2 }
+    ],
+    "edges": [
+      { "from": "danx2", "to": "dragcity", "label": "founded 1989" },
+      { "from": "dragcity", "to": "royaltrux", "label": "DC1" },
+      { "from": "dragcity", "to": "pavement", "label": "DC2" },
+      { "from": "dragcity", "to": "palace", "label": "1993" },
+      { "from": "dragcity", "to": "smog", "label": "1993" },
+      { "from": "dragcity", "to": "gastr", "label": "1994" },
+      { "from": "dragcity", "to": "silverjews", "label": "1994" }
+    ]
+  },
+  "tracks": [
+    { "artist": "Royal Trux", "title": "Hero/Zero", "year": 1990, "album": "Hero/Zero 7\"" },
+    { "artist": "Pavement", "title": "Forklift", "year": 1990, "album": "Demolition Plot J-7" },
+    { "artist": "Pavement", "title": "Debris Slide", "year": 1991, "album": "Perfect Sound Forever" },
+    { "artist": "Pavement", "title": "Home", "year": 1991, "album": "Perfect Sound Forever" },
+    { "artist": "Royal Trux", "title": "Osiris", "year": 1990, "album": "Twin Infinitives" },
+    { "artist": "Palace Brothers", "title": "Playthings", "year": 1993, "album": "There Is No-One What Will Take Care of You" },
+    { "artist": "Palace Brothers", "title": "Riding", "year": 1993, "album": "There Is No-One What Will Take Care of You" },
+    { "artist": "Palace Brothers", "title": "O Paul", "year": 1993, "album": "There Is No-One What Will Take Care of You" },
+    { "artist": "Smog", "title": "Strawberry Rash", "year": 1993, "album": "Julius Caesar" },
+    { "artist": "Smog", "title": "37 Push Ups", "year": 1993, "album": "Julius Caesar" },
+    { "artist": "Smog", "title": "Your Wedding", "year": 1993, "album": "Julius Caesar" },
+    { "artist": "Gastr del Sol", "title": "The C in Cake", "year": 1994, "album": "Crookt, Crackt, or Fly" },
+    { "artist": "Gastr del Sol", "title": "Every Five Miles", "year": 1994, "album": "Crookt, Crackt, or Fly" },
+    { "artist": "Silver Jews", "title": "Trains Across the Sea", "year": 1994, "album": "Starlite Walker" },
+    { "artist": "Silver Jews", "title": "The Country Diary of a Subway Conductor", "year": 1994, "album": "Starlite Walker" },
+    { "artist": "Silver Jews", "title": "Advice to the Graduate", "year": 1994, "album": "Starlite Walker" }
+  ],
+  "essay": "Two guys named Dan started a record label in Chicago in 1989 because they were record-store clerks who couldn't stop buying weird 7\"s. Dan Koretzky and Dan Osborn bonded over underground music and decided to just start a label — Drag City. Neither of them had any money. What they had was taste, and for the first five years that taste built, almost by accident, one of the most important rosters in American underground music.\n\nDrag City's catalog number DC1 is Royal Trux's 'Hero Zero,' a 1990 7\" that actually sold — funding the label's second release: Pavement's 'Demolition Plot J-7,' recorded in Gary Young's home studio in Stockton.\n\nBy 1992-93 the roster widened into a Chicago-Louisville family tree. Will Oldham recruited three-quarters of the recently-disbanded Slint to back him on Palace Brothers' debut. Bill Callahan, recording as Smog, made his first studio album, 'Julius Caesar.' David Grubbs folded his post-hardcore band into Gastr del Sol. And David Berman — friends with Malkmus and Nastanovich since college — started sending Koretzky cassette tapes as Silver Jews, resulting in 'Starlite Walker.'\n\nEvery one of these records was made by people who barely had money, barely had gear, and had zero commercial ambition — and every single one ended up mattering more than almost anything else released in American indie rock in the following decade."
+}

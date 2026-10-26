@@ -1,0 +1,63 @@
+{
+  "id": "2026-08-31-the-hi-sound",
+  "title": "The Hi Sound: Memphis Soul's Royal Studio",
+  "date": "2026-08-31",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/3h88uO2ebreaMRGFY7zbil",
+  "spotifyId": "3h88uO2ebreaMRGFY7zbil",
+  "description": "Deep cuts from the Hi Records family tree — Willie Mitchell's Royal Studio at 1320 South Lauderdale: Al Green, Ann Peebles, O.V. Wright, Syl Johnson, Otis Clay & Don Bryant, 1959–1974. The Memphis soul story that isn't Stax.",
+  "themes": ["hi-records", "memphis-soul", "willie-mitchell", "royal-studios", "al-green", "ann-peebles", "ov-wright", "syl-johnson", "otis-clay", "deep-cuts", "mid-century-soul"],
+  "familyTree": {
+    "layerLabels": ["the origin (1957–68)", "the deep voices", "the Al Green era (1969–74)", "the house & the legacy"],
+    "nodes": [
+      {"id": "founding", "name": "Hi Records founded 1957", "note": "Ray Harris, Joe Cuoghi, Bill Cantrell & Quinton Claunch (ex-Sun producers) in an abandoned cinema; 16 flop singles by summer 1959, near-shutdown", "layer": 0},
+      {"id": "billblack", "name": "Bill Black's Combo", "note": "Elvis's original bassist; 'Smokie Part 2' (1959) saved the label — Reggie Young's pencil-on-guitar growl", "layer": 0},
+      {"id": "mitchell", "name": "Willie Mitchell", "note": "bebop-trained trumpeter; became Bill Black's arranger, then Hi's A&R; bought the theater at 1320 South Lauderdale = Royal Studios; jazz chords (minor 9ths) in R&B", "layer": 0},
+      {"id": "hirhythm", "name": "Hi Rhythm Section", "note": "Teenie Hodges (guitar), Leroy Hodges (bass), Charles Hodges (organ), Archie Turner (piano, Mitchell's stepson), Howard Grimes (drums) — Al Jackson Jr. moonlighted on the big ones", "layer": 0},
+      {"id": "ovwright", "name": "O.V. Wright", "note": "gospel tenor of anguish; Goldwax debut released by Hi co-founder Claunch; legally bound to Don Robey's Back Beat, but Mitchell produced him at Royal anyway", "layer": 1},
+      {"id": "syljohnson", "name": "Syl Johnson", "note": "Chicago Twinight star; 'Is It Because I'm Black' (1969); Mitchell brought him to Hi in 1971; later covered 'Take Me to the River' (1975)", "layer": 1},
+      {"id": "algreen", "name": "Al Green", "note": "met Mitchell in Odessa/Midland TX; $1,500 loan; first Hi record = Beatles cover; 'sing mellow, don't sing hard'; one DX-77 mic", "layer": 2},
+      {"id": "rhodes", "name": "Donna & Sandra Rhodes", "note": "country-bred teenage harmony sisters — 'pretty in the middle' of the Mitchell mix", "layer": 2},
+      {"id": "annpeebles", "name": "Ann Peebles", "note": "'I Can't Stand the Rain' (1973) — called 'the best song ever' by John Lennon; sampled by Missy Elliott 1997", "layer": 2},
+      {"id": "donbryant", "name": "Don Bryant", "note": "Hi staff songwriter, Ann's husband; wrote 'I Can't Stand the Rain'; solo LP Precious Soul (1969); Fat Possum comeback 2020", "layer": 2},
+      {"id": "otisclay", "name": "Otis Clay", "note": "Chicago gospel refugee; 'Tryin' to Live My Life Without You' (1972); Bob Seger's cover hit #5 pop in 1981", "layer": 2},
+      {"id": "legacy", "name": "The legacy", "note": "Talking Heads/Eno took 'Take Me to the River' to new wave (1978); Paul Young covered Peebles (1984); Fat Possum distributes the catalog since 2009", "layer": 3}
+    ],
+    "edges": [
+      {"from": "founding", "to": "billblack"},
+      {"from": "billblack", "to": "mitchell"},
+      {"from": "mitchell", "to": "hirhythm"},
+      {"from": "hirhythm", "to": "algreen"},
+      {"from": "hirhythm", "to": "annpeebles"},
+      {"from": "mitchell", "to": "ovwright"},
+      {"from": "mitchell", "to": "syljohnson"},
+      {"from": "mitchell", "to": "otisclay"},
+      {"from": "donbryant", "to": "annpeebles"},
+      {"from": "rhodes", "to": "algreen"},
+      {"from": "algreen", "to": "legacy"},
+      {"from": "annpeebles", "to": "legacy"},
+      {"from": "otisclay", "to": "legacy"}
+    ]
+  },
+  "tracks": [
+    {"artist": "Bill Black's Combo", "title": "Smokie, Pt. 2", "year": 1959, "album": "Hi single"},
+    {"artist": "Willie Mitchell", "title": "20-75", "year": 1964, "album": "Hi single"},
+    {"artist": "Willie Mitchell", "title": "Soul Serenade", "year": 1968, "album": "Hi single"},
+    {"artist": "O.V. Wright", "title": "That's How Strong My Love Is", "year": 1964, "album": "Goldwax single"},
+    {"artist": "O.V. Wright", "title": "A Nickel and a Nail", "year": 1971, "album": "A Nickel and a Nail and Ace of Spades"},
+    {"artist": "Syl Johnson", "title": "Is It Because I'm Black", "year": 1969, "album": "Is It Because I'm Black"},
+    {"artist": "Syl Johnson", "title": "Back for a Taste of Your Love", "year": 1973, "album": "Back for a Taste of Your Love"},
+    {"artist": "Al Green", "title": "I Want to Hold Your Hand", "year": 1969, "album": "Hi single (Love Ritual comp.)"},
+    {"artist": "Al Green", "title": "I've Never Found a Girl", "year": 1972, "album": "Let's Stay Together"},
+    {"artist": "Al Green", "title": "Beware", "year": 1973, "album": "Livin' for You"},
+    {"artist": "Al Green", "title": "Simply Beautiful", "year": 1972, "album": "I'm Still in Love with You"},
+    {"artist": "Al Green", "title": "Take Me to the River", "year": 1974, "album": "Al Green Explores Your Mind"},
+    {"artist": "Ann Peebles", "title": "Part Time Love", "year": 1970, "album": "Part Time Love"},
+    {"artist": "Ann Peebles", "title": "I Can't Stand the Rain", "year": 1973, "album": "Hi single (1974 LP)"},
+    {"artist": "Ann Peebles", "title": "I'm Gonna Tear Your Playhouse Down", "year": 1973, "album": "Hi single (1974 LP)"},
+    {"artist": "Otis Clay", "title": "Trying to Live My Life Without You", "year": 1972, "album": "Trying to Live My Life Without You"},
+    {"artist": "Don Bryant", "title": "Can I Change My Mind", "year": 1969, "album": "Precious Soul"},
+    {"artist": "Al Green", "title": "Jesus Is Waiting", "year": 1973, "album": "Call Me"}
+  ],
+  "essay": "Everybody knows Stax. Hi Records is the Memphis soul story that usually gets the footnotes — a tiny label that accidentally outlived the giants. It started in 1957, founded by Ray Harris, record store owner Joe Cuoghi, and former Sun producers Bill Cantrell and Quinton Claunch, in an abandoned cinema. By the summer of 1959, after sixteen flop singles, Cuoghi was ready to fold. Then Harris's old buddy Bill Black — the slap-bass player from Elvis's original trio — cut 'Smokie Part 2' with his combo, and the label was saved. Legend has it the guitar growl came from Reggie Young playing with a pencil on a dying amp.\n\nThe pivot came when trumpeter Willie Mitchell — a bebop-trained bandleader who worked the Arkansas clubs where Elvis and Bill Black came to watch — became Bill Black's arranger and then Hi's A&R engine. He bought the old theater on South Lauderdale, made it Royal Studios, and built a house band around three teenage brothers: guitarist Mabon 'Teenie' Hodges, bassist Leroy Hodges, organist Charles Hodges, plus pianist Archie Turner (his stepson) and drummer Howard Grimes — with Stax's Al Jackson Jr. moonlighting on the big ones. Mitchell's secret was jazz: minor-ninth chords R&B wasn't using, 'jazzy on top' vocals, the Rhodes sisters 'pretty in the middle,' the rhythm section 'down on the bottom.' One DX-77 microphone for Al Green; nobody else touched it.\n\nAl Green was the crown jewel — met by Mitchell in Odessa/Midland, Texas, lured to Memphis with a $1,500 loan, told to stop singing hard and 'sing mellow,' and handed a Beatles cover ('I Want to Hold Your Hand') as his first Hi record. 'Tired of Being Alone' — written at 1 AM after a day of cutting other people's songs — became their first million-seller, and the 1971–74 run ('Let's Stay Together,' 'I'm Still in Love with You,' 'Call Me') made Royal the most romantic room in America. The era ended like a Greek tragedy: in October 1974, Green's girlfriend poured boiling grits on him and killed herself; a scarred Green turned to the ministry, and disco finished the label by the late 70s.\n\nThe family tree runs deep: O.V. Wright, whose Goldwax debut was released by Hi co-founder Quinton Claunch before Don Robey's contract claim dragged him to Back Beat — where Mitchell produced him at Royal anyway; Syl Johnson, the Chicago star Mitchell brought south in 1971; Ann Peebles and her husband Don Bryant, Hi's staff songwriter; Otis Clay, the gospel refugee. And the sound leaked everywhere: Talking Heads (persuaded by Brian Eno) took 'Take Me to the River' to the new-wave masses in 1978, Missy Elliott's 1997 debut single is built on an 'I Can't Stand the Rain' sample, Bob Seger turned Otis Clay's ballad into a #5 pop hit in 1981, and John Lennon once called 'I Can't Stand the Rain' the best song ever. Fat Possum has kept the catalog alive since 2009. The little label that nearly died in 1959 turned out to be immortal."
+}

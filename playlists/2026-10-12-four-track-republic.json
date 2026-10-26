@@ -1,0 +1,187 @@
+{
+  "id": "2026-10-12-four-track-republic",
+  "title": "The Four-Track Republic: DIY Fidelity and the 1990s Indie Underground",
+  "date": "2026-10-12",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/0XEP1dCwTqUmS6RpnjhyRB",
+  "spotifyId": "0XEP1dCwTqUmS6RpnjhyRB",
+  "description": "Home tapes, basements, and handmade indie: a tour of the lo-fi ideal and its studio-room exceptions, 1984–96.",
+  "themes": [
+    "lo-fi",
+    "four-track",
+    "diy",
+    "indie-rock",
+    "cassette-culture",
+    "deep-cuts"
+  ],
+  "familyTree": {
+    "layerLabels": [
+      "the permission",
+      "regional rooms",
+      "songs out in the world"
+    ],
+    "nodes": [
+      {
+        "id": "johnston",
+        "name": "Daniel Johnston",
+        "note": "homemade cassettes circulated in the early 1980s",
+        "layer": 0
+      },
+      {
+        "id": "moore",
+        "name": "R. Stevie Moore",
+        "note": "a parallel, long-running home-recording practice",
+        "layer": 0
+      },
+      {
+        "id": "olympia",
+        "name": "Olympia / K Records",
+        "note": "Beat Happening and an intentionally DIY pop ethic",
+        "layer": 1
+      },
+      {
+        "id": "louisville",
+        "name": "Louisville: Slint & Palace",
+        "note": "Brian McMahan links the Palace Brothers story to Slint",
+        "layer": 1
+      },
+      {
+        "id": "dayton",
+        "name": "Dayton: Guided by Voices",
+        "note": "the basement four-track as a songwriting engine",
+        "layer": 1
+      },
+      {
+        "id": "elephant6",
+        "name": "Elephant 6 / Neutral Milk Hotel",
+        "note": "Mangum’s early tape experiments precede the later band sound",
+        "layer": 1
+      },
+      {
+        "id": "songs",
+        "name": "the 1990s indie underground",
+        "note": "cheap tape, small labels, and unvarnished songwriting",
+        "layer": 2
+      }
+    ],
+    "edges": [
+      {
+        "from": "johnston",
+        "to": "songs",
+        "label": "homemade cassette precedent"
+      },
+      {
+        "from": "moore",
+        "to": "songs",
+        "label": "parallel DIY path"
+      },
+      {
+        "from": "olympia",
+        "to": "songs",
+        "label": "scene and label infrastructure"
+      },
+      {
+        "from": "louisville",
+        "to": "songs",
+        "label": "shared local personnel"
+      },
+      {
+        "from": "dayton",
+        "to": "songs",
+        "label": "four-track spontaneity"
+      },
+      {
+        "from": "elephant6",
+        "to": "songs",
+        "label": "tape experiments into a scene"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "artist": "Daniel Johnston",
+      "title": "True Love Will Find You in the End",
+      "year": 1984,
+      "album": "Retired Boxer"
+    },
+    {
+      "artist": "R. Stevie Moore",
+      "title": "I Like to Stay Home",
+      "year": 1986,
+      "album": "Glad Music"
+    },
+    {
+      "artist": "Beat Happening",
+      "title": "Indian Summer",
+      "year": 1988,
+      "album": "Jamboree"
+    },
+    {
+      "artist": "Pavement",
+      "title": "Box Elder",
+      "year": 1989,
+      "album": "Slay Tracks: 1933–1969"
+    },
+    {
+      "artist": "Sebadoh",
+      "title": "Gimme Indie Rock!",
+      "year": 1991,
+      "album": "III"
+    },
+    {
+      "artist": "Royal Trux",
+      "title": "Junkie Nurse",
+      "year": 1992,
+      "album": "Untitled"
+    },
+    {
+      "artist": "Palace Brothers",
+      "title": "Ohio River Boat Song",
+      "year": 1993,
+      "album": "Ohio River Boat Song (single)"
+    },
+    {
+      "artist": "Palace Brothers",
+      "title": "I Tried to Stay Healthy for You",
+      "year": 1993,
+      "album": "There Is No-One What Will Take Care of You"
+    },
+    {
+      "artist": "Smog",
+      "title": "Your Wedding",
+      "year": 1993,
+      "album": "Julius Caesar"
+    },
+    {
+      "artist": "The Mountain Goats",
+      "title": "Going to Georgia",
+      "year": 1994,
+      "album": "Zopilote Machine"
+    },
+    {
+      "artist": "Neutral Milk Hotel",
+      "title": "Everything Is",
+      "year": 1994,
+      "album": "Everything Is (7-inch)"
+    },
+    {
+      "artist": "Guided by Voices",
+      "title": "My Valuable Hunting Knife",
+      "year": 1995,
+      "album": "Alien Lanes"
+    },
+    {
+      "artist": "Guided by Voices",
+      "title": "A Salty Salute",
+      "year": 1995,
+      "album": "Alien Lanes"
+    },
+    {
+      "artist": "Cat Power",
+      "title": "Nude as the News",
+      "year": 1996,
+      "album": "What Would the Community Think"
+    }
+  ],
+  "essay": "The four-track recorder is less a piece of gear here than a permission slip. In the 1980s and 1990s, cheap cassette decks, basement studios and self-released tapes let a song reach the listener before anyone could sand off its odd edges. “Lo-fi” became a convenient name for the result, but not every record here was literally made at home, and roughness was not simply a budget accident. The through-line is a refusal to wait for the authorized studio sound—and the way that independence traveled across scenes, labels and friendships.\n\nDaniel Johnston’s homemade cassettes, circulated in the early 1980s, are the human-scale north star; R. Stevie Moore offers a parallel bedroom-pop universe. Olympia’s Beat Happening made amateurism communal, while Pavement’s first EP came from a brisk session with Gary Young. Sebadoh makes the distinction explicit: “Gimme Indie Rock!” was cut at Fort Apache on eight-track, while its B-side was recorded separately at home. The movement was never “studio bad, bedroom good”; it was choosing the means that served the song.\n\nLouisville’s Palace Brothers and Smog use roughness to leave room for a voice; Slint’s Brian McMahan appears in the Palace Brothers story as a fellow Palace Brother. In Dayton, Guided by Voices turned the basement four-track into a songwriting engine. John Darnielle’s early Mountain Goats records and Jeff Mangum’s Neutral Milk Hotel experiments show other routes from private tape to public independent music. Cat Power closes on the larger inheritance: candor, not a single machine or sound.\n\nResearch references include Joyful Noise’s history of Johnston’s homemade cassette archive; R. Stevie Moore’s official Bandcamp catalog; the Slay Tracks account; Sebadoh III and the Gimme Indie Rock single credits; Drag City’s retrospective on the Palace Brothers debut; Double J’s Alien Lanes oral history; Jeff Mangum/Neutral Milk Hotel discography notes; and Palace Music’s official Bandcamp page."
+}

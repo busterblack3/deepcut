@@ -1,0 +1,237 @@
+{
+  "id": "2026-10-26-mixing-desk-meeting-place",
+  "title": "The Mixing Desk as Meeting Place: On-U Sound’s First Wave, 1980–82",
+  "date": "2026-10-26",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/1dxNcNEe0tWAm1cbMyEXSG",
+  "spotifyId": "1dxNcNEe0tWAm1cbMyEXSG",
+  "description": "Adrian Sherwood’s early On-U orbit: Jamaican roots, London post-punk, and dub treated as the shared studio language.",
+  "themes": [
+    "on-u-sound",
+    "adrian-sherwood",
+    "dub",
+    "post-punk",
+    "jamaican-reggae",
+    "new-age-steppers",
+    "deep-cuts"
+  ],
+  "familyTree": {
+    "layerLabels": [
+      "roots and first productions",
+      "the shared studio",
+      "branches of the circle"
+    ],
+    "nodes": [
+      {
+        "id": "far-i",
+        "name": "Prince Far I",
+        "note": "Jamaican deejay and Sherwood collaborator",
+        "layer": 0
+      },
+      {
+        "id": "creation-rebel",
+        "name": "Creation Rebel",
+        "note": "roots-reggae group and Prince Far I backing band",
+        "layer": 0
+      },
+      {
+        "id": "hitrun",
+        "name": "Hitrun",
+        "note": "Sherwood label launched 1978; early Creation Rebel productions",
+        "layer": 0
+      },
+      {
+        "id": "sherwood",
+        "name": "Adrian Sherwood",
+        "note": "producer, mixer, connective tissue",
+        "layer": 1
+      },
+      {
+        "id": "onu",
+        "name": "On-U Sound",
+        "note": "formally launched January 1981",
+        "layer": 1
+      },
+      {
+        "id": "new-age",
+        "name": "New Age Steppers",
+        "note": "Slits/Pop Group/Raincoats players with reggae rhythm-section players",
+        "layer": 2
+      },
+      {
+        "id": "ahc",
+        "name": "African Head Charge",
+        "note": "Bonjo Iyabinghi Noah with Sherwood’s dub constructions",
+        "layer": 2
+      },
+      {
+        "id": "singers",
+        "name": "Singers & Players",
+        "note": "Prince Far I, Jah Woosh, Bim Sherman and post-punk guests",
+        "layer": 2
+      },
+      {
+        "id": "bim",
+        "name": "Bim Sherman",
+        "note": "singer-songwriter whose roots songs recur across the collective",
+        "layer": 2
+      },
+      {
+        "id": "dub-syndicate",
+        "name": "Dub Syndicate",
+        "note": "Sherwood’s long-running collaboration with Style Scott",
+        "layer": 2
+      },
+      {
+        "id": "style",
+        "name": "Style Scott / Roots Radics",
+        "note": "drums anchoring the rhythm-first branch",
+        "layer": 0
+      }
+    ],
+    "edges": [
+      {
+        "from": "sherwood",
+        "to": "hitrun",
+        "label": "early productions, 1978 onward"
+      },
+      {
+        "from": "hitrun",
+        "to": "creation-rebel",
+        "label": "recorded together"
+      },
+      {
+        "from": "creation-rebel",
+        "to": "far-i",
+        "label": "backing band"
+      },
+      {
+        "from": "sherwood",
+        "to": "onu",
+        "label": "founded, 1981"
+      },
+      {
+        "from": "sherwood",
+        "to": "new-age",
+        "label": "formed and produced"
+      },
+      {
+        "from": "style",
+        "to": "new-age",
+        "label": "played on debut"
+      },
+      {
+        "from": "sherwood",
+        "to": "ahc",
+        "label": "built the backing tracks"
+      },
+      {
+        "from": "sherwood",
+        "to": "singers",
+        "label": "produced the collective"
+      },
+      {
+        "from": "bim",
+        "to": "singers",
+        "label": "voice and songwriting"
+      },
+      {
+        "from": "sherwood",
+        "to": "dub-syndicate",
+        "label": "long-term studio partnership"
+      },
+      {
+        "from": "style",
+        "to": "dub-syndicate",
+        "label": "drummer and collaborator"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "artist": "Creation Rebel",
+      "title": "The Dope",
+      "year": 1981,
+      "album": "Psychotic Jonkanoo"
+    },
+    {
+      "artist": "New Age Steppers",
+      "title": "Fade Away",
+      "year": 1980,
+      "album": "New Age Steppers"
+    },
+    {
+      "artist": "New Age Steppers",
+      "title": "Love Forever",
+      "year": 1980,
+      "album": "New Age Steppers"
+    },
+    {
+      "artist": "New Age Steppers",
+      "title": "Crazy Dreams And High Ideals",
+      "year": 1980,
+      "album": "New Age Steppers"
+    },
+    {
+      "artist": "New Age Steppers",
+      "title": "My Love",
+      "year": 1981,
+      "album": "Action Battlefield"
+    },
+    {
+      "artist": "Creation Rebel",
+      "title": "African Space",
+      "year": 1981,
+      "album": "Psychotic Jonkanoo"
+    },
+    {
+      "artist": "African Head Charge",
+      "title": "Stebeni’s Theme",
+      "year": 1981,
+      "album": "My Life In A Hole In The Ground"
+    },
+    {
+      "artist": "African Head Charge",
+      "title": "Far Away Chant",
+      "year": 1981,
+      "album": "My Life In A Hole In The Ground"
+    },
+    {
+      "artist": "Prince Far I, Singers And Players",
+      "title": "Quante Jubila",
+      "year": 1981,
+      "album": "War Of Words"
+    },
+    {
+      "artist": "Singers And Players",
+      "title": "Reaching The Bad Man",
+      "year": 1981,
+      "album": "War Of Words"
+    },
+    {
+      "artist": "Bim Sherman",
+      "title": "Golden Locks",
+      "year": 1982,
+      "album": "Across The Red Sea"
+    },
+    {
+      "artist": "Bim Sherman",
+      "title": "Across The Red Sea",
+      "year": 1982,
+      "album": "Across The Red Sea"
+    },
+    {
+      "artist": "Dub Syndicate",
+      "title": "Pounding System",
+      "year": 1982,
+      "album": "The Pounding System"
+    },
+    {
+      "artist": "Dub Syndicate",
+      "title": "Hi-Fi Gets a Pounding pts. 1 & 2",
+      "year": 1982,
+      "album": "The Pounding System"
+    }
+  ],
+  "essay": "This is a tour through Adrian Sherwood’s early On-U Sound orbit, where Jamaican roots musicians and London post-punk players met in the studio rather than merely borrowing one another’s surface style. Sherwood came up through reggae and soul promotion and distribution, founded Hitrun in 1978, and began producing Creation Rebel with Prince Far I; he formally launched On-U Sound in January 1981. Here the mixing desk is a compositional instrument: bass, space, echo, and the abrupt removal or return of parts shape the songs as much as the players do.\n\nThe New Age Steppers made the connection tangible, bringing members of The Slits, The Pop Group, The Flying Lizards, and The Raincoats together with Style Scott of Roots Radics, Crucial Tony of Creation Rebel, and George Oban of Aswad. Their first album turns Junior Byles’s “Fade Away” and Bim Sherman’s “Love Forever” into spectral London versions; Mark Stewart’s “Crazy Dreams and High Ideals” points toward his later work with the Maffia. On the follow-up, Action Battlefield, Neneh Cherry makes her vocal debut on “My Love,” with Bim Sherman on harmony.\n\nThe network then spreads into distinct projects: Creation Rebel’s *Psychotic Jonkanoo* was licensed to Glasgow’s post-punk-oriented Statik; African Head Charge put Bonjo Iyabinghi Noah’s hand percussion over Sherwood’s sparse dub tracks, drawing on Noah’s study with Count Ossie at Wareika Hill; Singers & Players joined Prince Far I, Jah Woosh, and Bim Sherman with post-punk guests Keith Levene and Ari Up. *War of Words* first appeared on New York’s 99 Records, so these are Sherwood-connected branches, not a claim that every title was originally an On-U release. Bim Sherman’s solo record makes the circle intimate, while Dub Syndicate’s partnership with Roots Radics drummer Style Scott brings the story back to the bass and drum.\n\nOne catalog wrinkle: Spotify and AllMusic index the first New Age Steppers LP as 1980, while its current Bandcamp page lists January 1981; the track years here follow the original-catalog year. Sources include FACT’s Sherwood/On-U history and the artists’ Bandcamp album notes."
+}

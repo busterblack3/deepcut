@@ -1,0 +1,225 @@
+{
+  "id": "2026-10-05-sansus-second-line",
+  "title": "Sansu's Second Line: Allen Toussaint's New Orleans Studio Family, 1961–74",
+  "date": "2026-10-05",
+  "author": "Claudette",
+  "spotifyUrl": "https://open.spotify.com/playlist/0F8GuxHaB1h5b9Jjqe11OM",
+  "spotifyId": "0F8GuxHaB1h5b9Jjqe11OM",
+  "description": "From Toussaint's Minit apprenticeship through Sansu's house band to the Meters at Sea-Saint: a family portrait of New Orleans studio sound, 1961–74.",
+  "themes": [
+    "new-orleans-soul",
+    "allen-toussaint",
+    "sansu",
+    "the-meters",
+    "deep-cuts",
+    "studio-musicians"
+  ],
+  "familyTree": {
+    "layerLabels": [
+      "the groundwork",
+      "the working studio",
+      "the long echo"
+    ],
+    "nodes": [
+      {
+        "id": "minit",
+        "name": "Minit Records",
+        "note": "Toussaint hired as A&R/producer, 1960",
+        "layer": 0
+      },
+      {
+        "id": "toussaint",
+        "name": "Allen Toussaint",
+        "note": "writer, pianist, arranger, producer",
+        "layer": 0
+      },
+      {
+        "id": "sehorn",
+        "name": "Marshall Sehorn",
+        "note": "A&R and business partner",
+        "layer": 0
+      },
+      {
+        "id": "matassa",
+        "name": "Cosimo Matassa's studio",
+        "note": "home base for Sansu-era sessions",
+        "layer": 1
+      },
+      {
+        "id": "sansu",
+        "name": "Sansu Enterprises",
+        "note": "Toussaint + Sehorn, 1965",
+        "layer": 1
+      },
+      {
+        "id": "meters",
+        "name": "The Meters",
+        "note": "Art Neville, Leo Nocentelli, George Porter Jr., Zigaboo Modeliste",
+        "layer": 2
+      },
+      {
+        "id": "seasaint",
+        "name": "Sea-Saint",
+        "note": "Gentilly studio opened 1973",
+        "layer": 1
+      },
+      {
+        "id": "rejuvenation",
+        "name": "Rejuvenation",
+        "note": "Meters, 1974; early Sea-Saint project",
+        "layer": 2
+      }
+    ],
+    "edges": [
+      {
+        "from": "minit",
+        "to": "toussaint",
+        "label": "A&R / production"
+      },
+      {
+        "from": "toussaint",
+        "to": "sansu",
+        "label": "founded 1965"
+      },
+      {
+        "from": "sehorn",
+        "to": "sansu",
+        "label": "founded 1965"
+      },
+      {
+        "from": "sansu",
+        "to": "matassa",
+        "label": "sessions"
+      },
+      {
+        "from": "matassa",
+        "to": "meters",
+        "label": "house-band nucleus"
+      },
+      {
+        "from": "toussaint",
+        "to": "meters",
+        "label": "produced / arranged"
+      },
+      {
+        "from": "sansu",
+        "to": "seasaint",
+        "label": "studio system grows"
+      },
+      {
+        "from": "sehorn",
+        "to": "seasaint",
+        "label": "built 1973"
+      },
+      {
+        "from": "meters",
+        "to": "rejuvenation",
+        "label": "bandleader era"
+      },
+      {
+        "from": "seasaint",
+        "to": "rejuvenation",
+        "label": "recorded 1974"
+      }
+    ]
+  },
+  "tracks": [
+    {
+      "artist": "Chris Kenner",
+      "title": "I Like It Like That, Pt. 1",
+      "year": 1961,
+      "album": "Original Minit single; later collected on Land of 1,000 Dances"
+    },
+    {
+      "artist": "Benny Spellman",
+      "title": "Lipstick Traces (On a Cigarette)",
+      "year": 1962,
+      "album": "Minit single; Finger Poppin' and Stompin' Feet"
+    },
+    {
+      "artist": "Irma Thomas",
+      "title": "Ruler of My Heart",
+      "year": 1963,
+      "album": "Minit single; Irma Thomas Collection: 1961–1966"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Ride Your Pony",
+      "year": 1965,
+      "album": "Ride Your Pony"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Get Out of My Life, Woman",
+      "year": 1966,
+      "album": "The New Lee Dorsey"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Working in the Coal Mine",
+      "year": 1966,
+      "album": "The New Lee Dorsey"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Holy Cow",
+      "year": 1966,
+      "album": "The New Lee Dorsey"
+    },
+    {
+      "artist": "Betty Harris",
+      "title": "Nearer to You",
+      "year": 1967,
+      "album": "Soul Perfection"
+    },
+    {
+      "artist": "Betty Harris",
+      "title": "Trouble with My Lover",
+      "year": 1968,
+      "album": "Soul Perfection"
+    },
+    {
+      "artist": "Betty Harris",
+      "title": "There's a Break in the Road",
+      "year": 1969,
+      "album": "SSS International single"
+    },
+    {
+      "artist": "The Meters",
+      "title": "Sophisticated Cissy",
+      "year": 1969,
+      "album": "The Meters"
+    },
+    {
+      "artist": "The Meters",
+      "title": "Cissy Strut",
+      "year": 1969,
+      "album": "The Meters"
+    },
+    {
+      "artist": "The Meters",
+      "title": "Look-Ka Py Py",
+      "year": 1970,
+      "album": "Look-Ka Py Py"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Everything I Do Gohn Be Funky (From Now On)",
+      "year": 1969,
+      "album": "Yes We Can"
+    },
+    {
+      "artist": "Lee Dorsey",
+      "title": "Yes We Can, Pt. 1",
+      "year": 1970,
+      "album": "Yes We Can"
+    },
+    {
+      "artist": "The Meters",
+      "title": "People Say",
+      "year": 1974,
+      "album": "Rejuvenation"
+    }
+  ],
+  "essay": "Allen Toussaint's New Orleans sound was a system as much as a style: songs, arrangements, production, a small circle of independent-label operators, and a young rhythm section who could make the pocket feel both precise and loose. Toussaint's Minit years began in 1960, before he and A&R man Marshall Sehorn formed Sansu Enterprises in 1965. Sansu sessions, often made at Cosimo Matassa's studio, connected singers like Lee Dorsey and Betty Harris to Art Neville, Leo Nocentelli, George Porter Jr., and Zigaboo Modeliste—the musicians who took the name the Meters in 1968.\n\nThe playlist opens with the earlier Minit singles by Chris Kenner, Benny Spellman, and Irma Thomas, then follows the Dorsey/Toussaint partnership and Betty Harris's increasingly gritty sides. The central musical point is how the rhythm players shift between foreground and background: the soon-to-be Meters are a recurring studio nucleus, not a blanket credit on every Sansu session. James Black, for example, drums on Harris's “There's a Break in the Road.”\n\nThe Meters' 1969 debut makes that rhythmic grammar the lead voice, and their later “People Say” carries the story into the next room. Toussaint and Sehorn opened Sea-Saint in Gentilly in 1973; the Meters' 1974 album Rejuvenation was among the studio's first major projects. The arc therefore runs from a producer's early apprenticeship to an independent New Orleans studio family and a band that could stand on its own.\n\nSources: [64 Parishes — Allen Toussaint](https://64parishes.org/entry/allen-toussaint); [Signature Sounds — Sea-Saint history](https://signaturesoundsonline.com/people/music-industry-professionals/allen-toussaint-marshall-sehorn-sea-saint-studios/); [Indiana Public Media / Afterglow](https://www.ipm.org/show/afterglow/2019-09-11/world-allen-toussaint); [AllMusic — Betty Harris](https://www.allmusic.com/artist/betty-harris-mn0000049180)."
+}
